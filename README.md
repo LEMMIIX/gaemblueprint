@@ -1,4 +1,4 @@
-If you'd like to **learn how to use this to make games**, go here -> https://vault.randy.gg/
+If you'd like to **learn how to use this to make games**, go here -> https://path.randy.gg/
 
 ---
 
