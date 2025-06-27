@@ -1,4 +1,6 @@
-If you'd like to **learn how to use this to make games**, go here -> https://path.randy.gg/
+If you'd like to **learn how to use this to make games**, go here -> https://www.skool.com/no-engine
+
+If you want some free value like this blueprint delivered to your inbox every now and then, go here -> https://path.randy.gg
 
 ---
 
