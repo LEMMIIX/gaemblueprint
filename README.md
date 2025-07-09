@@ -71,10 +71,9 @@ I get that some people prefer to be linux or mac chads though. It's relatively s
 
 ## Mac
 1. [install Odin](https://odin-lang.org/docs/install/)
-2. make the folders for `build/mac_debug` (currently a bug)
-3. call `build_mac.sh`
-4. check `build/mac_debug`
-5. see instructions below for running
+2. call `build_mac.sh`
+3. check `build/mac_debug`
+4. see instructions below for running
 
 ## Linux
 todo
