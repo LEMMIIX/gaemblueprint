@@ -1,6 +1,6 @@
-If you'd like to **learn how to use this to make games**, go here -> https://www.skool.com/no-engine
+If you'd like to learn how to use this to make games, [go here](https://learn.randy.gg/?src=template-starter)
 
-If you want some free value like this blueprint delivered to your inbox every now and then, go here -> https://path.randy.gg
+If you want some free value like this blueprint delivered to your inbox every now and then, checkout [my mailing list](https://path.randy.gg)
 
 ---
 
@@ -92,7 +92,7 @@ I'm focusing my efforts on teaching people how to use this via [my paid program]
 
 If you're on a budget, here's some free alternatives:
 - I do [live streams](https://www.youtube.com/@randyprime2) of development while using this
-- My public [Discord community](https://discord.gg/JXhxeQW4ca) (you can ask as many questions in there as you'd like and get help from the community, I just can't guarentee the quality of the answers)
+- I make educational content for this on [my YT channel](https://www.youtube.com/@randyprime)
 
 ## Why is this a "blueprint" (not a library)?
 Game development is complicated.
