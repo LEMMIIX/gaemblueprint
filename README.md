@@ -1,6 +1,5 @@
-If you'd like to learn how to use this to make games, [go here](https://learn.randy.gg/?src=template-starter)
-
-If you want some free value like this blueprint delivered to your inbox every now and then, checkout [my mailing list](https://path.randy.gg)
+I haven't updated this in a while. But here's the changes:
+- I no longer use packages for stuff like /draw, /input, etc (this was a mistake trying to abstract it, it's easier when it's not a package)
 
 ---
 
